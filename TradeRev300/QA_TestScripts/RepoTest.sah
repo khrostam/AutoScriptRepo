@@ -1,0 +1,6 @@
+
+
+	_log("This is a test before Navigate!" );
+	_navigateTo("http://qa.devops.traderev.com");
+	_wait(4000);
+	_log("This is a test After Navigate!" );
